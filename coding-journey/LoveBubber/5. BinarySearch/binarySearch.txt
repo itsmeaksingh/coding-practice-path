@@ -97,14 +97,14 @@ bs9. Find floor of sorted array
 bs10. Find ceil of sorted array
 bs11. Find next alphabetical element
 bs12. Find the position of an element in infinite sorted array (interview type question)
-bs13. index of 1 in binary infinite sorted array
-bs14. Mini difference element of sorted array with k
+bs13. index of 1 in binary infinite sorted array   (interview type question)
+bs14. Mini difference element of sorted array with k   
 bs15. Find maximum element in Botonic Array
-bs16. Seach in Row wise and column wise sorted array
+bs16. Search in Row wise and column wise sorted array
 bs17. Allocate minimum number of pages
 
 
-// love babbar
+// love Babbar
 
 1. Binary search
 2. First and last occurrence
