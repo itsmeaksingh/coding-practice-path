@@ -1,4 +1,5 @@
-// bs10. Find ceil of sorted array
+// bs11. Find next alphabetical element
+
 /*
 example :  arr = {10, 20, 30, 40, 50};  k = 45
     ans --> 50 or index of 40 which is 4
