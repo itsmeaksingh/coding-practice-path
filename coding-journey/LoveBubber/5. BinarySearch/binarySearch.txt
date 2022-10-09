@@ -29,7 +29,7 @@ bs17. Allocate minimum number of pages
 1. Binary search
 2. First and last occurrence
 3. count of element in sorted array
-4. Peak index in mountain array
+4. Peak index in mountain array/ mountain array
 5. Pivot element (minimum element in rotated sorted array)
 6. element in rotated sorted array
 7. Square root of using binary search array
