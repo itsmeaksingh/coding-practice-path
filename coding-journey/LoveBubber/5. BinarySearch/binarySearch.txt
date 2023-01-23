@@ -9,18 +9,18 @@ bs1. Binary Search
 bs2. Binary Search in reverse Sorted array
 bs3. Order Not search
 bs4. First and Last occurrence
-bs5. count of element in sorted array
+bs5. count of the element in sorted array
 bs6. find No. of times sorted rotated array
-bs7. Find element in rotated array
+bs7. Find the element in the rotated array
 bs8. Searching in nearly sorted array
-bs9. Find floor of sorted array
+bs9. Find the floor of the sorted array
 bs10. Find ceil of sorted array
-bs11. Find next alphabetical element
-bs12. Find the position of an element in infinite sorted array (interview type question)
-bs13. index of 1 in binary infinite sorted array   (interview type question)
-bs14. Mini difference element of sorted array with k   
-bs15. Find maximum element in Botonic Array
-bs16. Search in Row wise and column wise sorted array
+bs11. Find the next alphabetical element
+bs12. Find the position of an element in the infinite sorted array (interview-type question)
+bs13. index of 1 in the binary infinite sorted array   (interview type question)
+bs14. Mini difference element of the sorted array with k   
+bs15. Find the maximum element in Botonic Array
+bs16. Search in the row wise and column-wise sorted array
 bs17. Allocate minimum number of pages
 
 
@@ -28,10 +28,10 @@ bs17. Allocate minimum number of pages
 
 1. Binary search
 2. First and last occurrence
-3. count of element in sorted array
+3. count of elements in the sorted array
 4. Peak index in mountain array/ mountain array
-5. Pivot element (minimum element in rotated sorted array)
-6. element in rotated sorted array
+5. Pivot element (minimum element in the rotated sorted array)
+6. element in the rotated sorted array
 7. Square root of using binary search array
 
 // most important questions
@@ -46,7 +46,7 @@ Question Links:
 Questions:
         - Lower Bound (first Occurrence)
         - Upper Bound (last Occurrence)
-        - Number of occurrence
+        - Number of occurrences
         - Pivot
         - Rotated search
         - Search Space --> Agg cow, Roti, Paratha, book allocation

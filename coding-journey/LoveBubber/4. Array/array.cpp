@@ -1,7 +1,7 @@
 /*
-    1. Fill with k of array --> done
-    2. max, mini array --> done in mind
-    3. Reverse array --> done in mind
+    1. Fill with k of array --> done O(n)
+    2. max, mini array --> done in mind O(n)
+    3. Reverse array --> done in mind O(n)
     4. Swap alternative --> 1,2,3,4,5,6 --> 2,1,4,3,6,5 --> done
     5. Find Unique element in Array --> done
     6. find duplicate in array --> done
