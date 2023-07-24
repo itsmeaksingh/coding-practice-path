@@ -36,7 +36,7 @@ Node *buildTree(Node *root)
     return root;
 }
 
-void levelOrderTravelsal(Node *root)
+void levelOrderTraversal(Node *root)
 {
     queue<Node *> q;
     q.push(root);
@@ -175,18 +175,17 @@ int main()
 
     Node *root = NULL;
     buildFromLevelOrder(root);
-    levelOrderTravelsal(root);
+    levelOrderTraversal(root);
     // 1 3 5 7 11 17 -1 -1 -1 -1 -1 -1 -1
 
     /*
-
         // create a tree
         root = buildTree(root);
         // 1 3 7 -1 -1 11 -1 -1 5 17 -1 -1 -1
         // level order traversal
-        levelOrderTravelsal(root);
+        levelOrderTraversal(root);
 
-        cout << "Inorder " << endl;
+        cout << "inOrder " << endl;
         inOrder(root);
         cout << endl;
 

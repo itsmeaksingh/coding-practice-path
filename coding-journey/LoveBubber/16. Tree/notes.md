@@ -36,5 +36,9 @@ list<node\*>child
 
 # Home Work
 
-    - Reverse Level-order traversal
+    - Reverse Level-order traversal  (logic: queue enter and using slack reverse)
     - in-order, post-order, pre-order using iterator method
+
+<!-- lect-2 -->
+
+<!-- lect3 view question-->
